@@ -448,8 +448,8 @@ $client = new SoapClient ('http://turbosms.in.ua/api/wsdl.html');
  
 // Данные авторизации 
 $auth = Array ( 
-'login' => 'cartuning', 
-'password' => 'Passqqqq' 
+'login' => '1111', 
+'password' => '1111' 
 ); 
 
 // Авторизируемся на сервере 
